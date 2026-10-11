@@ -13,7 +13,7 @@
      덮는다 — 아래의 빈 prefers-color-scheme 규칙은 「다크를 스스로 지원하는 사이트」 판정용 표식 */
   color-scheme:only light;
   --steel-1:#1a1d22; --steel-2:#2b3038; --steel-3:#3c434d;
-  --panel:rgba(252,252,253,.94); --panel-solid:#fbfbfc;
+  --panel:rgba(250,240,242,.1); --panel-solid:#fbfbfc;
   --ink:#1d2025; --sub:#5d636d; --faint:#9aa0a9;
   --line:#e2e4e8; --line-dark:rgba(255,255,255,.14);
   --gold:#b39b6b;
@@ -26,7 +26,7 @@
   --fs:var(--fs-body,1);
   /* 테마 변수 — 환경설정 > 디자인에서 변경 (기본 = 다크 모드) */
   --bg-g1:#faf0f2; --bg-g2:#faf0f2;
-  --top-bg:rgba(20,22,27,.82); --top-fg:#aab0ba; --top-hv:#ffffff; --top-brand:#f2f3f5;
+  --top-bg:rgba(250,240,242,.1); --top-fg:#aab0ba; --top-hv:#ffffff; --top-brand:#f2f3f5;
   --dd-bg:rgba(28,31,37,.97); --dd-fg:#c6cad1; --dd-hv:rgba(255,255,255,.1);
   --page-title:#eceef1; --page-desc:#9aa0a9;
   --bgm-bg:rgba(22,24,29,.9); --bgm-fg:#eef0f3; --bgm-ic:#cfd3da; --bgm-vol:#e8eaee;
